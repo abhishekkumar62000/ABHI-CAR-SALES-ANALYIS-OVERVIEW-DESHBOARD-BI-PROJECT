@@ -1,7 +1,7 @@
 # ABHI-CAR-SALES-ANALYIS-OVERVIEW-DESHBOARD-BI-PROJECT
  **BMW i8**
 ![MY Car Project look 1](https://github.com/user-attachments/assets/b38229fa-c66a-43ec-8387-b61c91b55732)
-   **Buick Riviera**
+   **BuickRiviera**
 ![My car deshboard project look 2](https://github.com/user-attachments/assets/c00f4739-fe47-4cef-baa7-327ca0ddc192)
 **Mercedes-Benz**
 ![abhi car deshboard 3 project](https://github.com/user-attachments/assets/568609cb-9508-4a79-a188-f05b7e42476c)
