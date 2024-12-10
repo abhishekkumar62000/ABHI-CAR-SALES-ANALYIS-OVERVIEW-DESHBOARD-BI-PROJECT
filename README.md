@@ -110,19 +110,24 @@ In summary, I created an insightful and interactive **Car Sales Analysis Dashboa
 - Visualizing insights with **Power BI**.
 
 
+## 👨‍💻 Developer Information
 
-  # Developer Profile Picture
+**👤 Name**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**📧 Email**: [abhiydv23096@gmail.com](mailto:abhiydv23096@gmail.com)  
+**🔗 LinkedIn**: [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-70a69829a/)  
+**🐙 GitHub Profile**: [@abhishekkumar62000](https://github.com/abhishekkumar62000)  
+**📸 Developer Profile Image**:- <img src="![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)" width="150" height="150" style="border-radius: 50%;" alt="Developer Photo">
 
-<!-- Round image with border -->
-<p align="center">
-  <img src=https://github.com/abhishekkumar62000/ABHI-CAR-SALES-ANALYIS-OVERVIEW-DESHBOARD-BI-PROJECT/assets/![my png](https://github.com/user-attachments/assets/9b777696-77d0-48d4-9f5a-ae19580230a6).png" alt="Developer Image" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);">
-</p>
+![1722245359938 (1)-photoaidcom-cropped-removebg-preview-photoaidcom-cropped jpg](https://github.com/user-attachments/assets/31ddd1bd-ccd9-46a4-921b-139d381f6f01)
 
+---
 
 🌟 **I'm proud of the insights this project provides and the value it can offer to those interested in the automotive sales industry.**
 
 ---
 
 💬 **Feel free to check out the code, and let me know if you have any questions or feedback!**
+
+**Happy Learning!** 🎉
 
 ---
