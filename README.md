@@ -1,7 +1,7 @@
 # ABHI-CAR-SALES-ANALYIS-OVERVIEW-DESHBOARD-BI-PROJECT
  **BMW i8**
 ![MY Car Project look 1](https://github.com/user-attachments/assets/b38229fa-c66a-43ec-8387-b61c91b55732)
-**Buick Riviera**
+   **Buick Riviera**
 ![My car deshboard project look 2](https://github.com/user-attachments/assets/c00f4739-fe47-4cef-baa7-327ca0ddc192)
 **Mercedes-Benz**
 ![abhi car deshboard 3 project](https://github.com/user-attachments/assets/568609cb-9508-4a79-a188-f05b7e42476c)
@@ -108,6 +108,16 @@ In summary, I created an insightful and interactive **Car Sales Analysis Dashboa
 - EDA with **Python**.
 - Analysis using **SQL** queries.
 - Visualizing insights with **Power BI**.
+
+
+
+  # Developer Profile Picture
+
+<!-- Round image with border -->
+<p align="center">
+  <img src=https://github.com/abhishekkumar62000/ABHI-CAR-SALES-ANALYIS-OVERVIEW-DESHBOARD-BI-PROJECT/assets/![my png](https://github.com/user-attachments/assets/9b777696-77d0-48d4-9f5a-ae19580230a6).png" alt="Developer Image" width="150" height="150" style="border-radius: 50%; border: 5px solid #4CAF50; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);">
+</p>
+
 
 🌟 **I'm proud of the insights this project provides and the value it can offer to those interested in the automotive sales industry.**
 
